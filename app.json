@@ -1,5 +1,5 @@
 {
-  "name": "Knightshelby",
+  "name": "Doditfsub",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/Knightshelby/fsub2",
-  "logo": "https://telegra.ph/file/f17360c05bafab6c7c4f3.jpg",
+  "logo": "https://telegra.ph/file/0cd09959bd2caf3fef9f8.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
@@ -15,11 +15,11 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "alahsiahah"
+      "value": "-"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "5477811475"
+      "value": "2111778288"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
